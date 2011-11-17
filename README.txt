@@ -1,9 +1,24 @@
+-----------------
+
+Make sure you enable UNI Dandelion CSS after installing by:
+
+	- Visit your theme settings page (/admin/appearance/settings/YOURTHEME)
+	- Click "Toggle styles"
+	- Check "Subtheme styles (all) - YOURTHEME-global.css"
+	- Click Save configuration
+
+-----------------
+
 UNI Dandelion
 
 This theme has been developed as a subtheme of UNI Base Theme (unibasetheme). For more information on unibasetheme go to: http://www.uni.edu/features/uni-base-theme
 
+YOU MUST HAVE INSTALLED:
+Omega Drupal Theme (http://www.drupal.org/project/omega)
+UNI Base Theme (http://www.uni.edu/features/uni-base-theme)
 
-/------------ SUBTHEMING -----------/
+
+/------------ SUBTHEMING UNI Dandelion -----------/
 
 USING THE STARTERKIT (when YOURTHEME is noted, it is referenced to your theme name, without any dashes, spaces, or apostrophes)
 
@@ -34,6 +49,8 @@ USING THE STARTERKIT (when YOURTHEME is noted, it is referenced to your theme na
 	- Click "Toggle styles"
 	- Check "Subtheme styles (all) - YOURTHEME-global.css"
 	- Click Save configuration
+
+(Make sure both UNI Dandelion as well as YOURTHEME stylesheets are enabled (checked) on the Toggle styles page)
 
 *You must keep all region, zone, settings information, as this will not be inherited from the base theme.
 
