@@ -1,4 +1,8 @@
 -----------------
+YOU MUST HAVE INSTALLED:
+Omega Drupal Theme (http://www.drupal.org/project/omega)
+UNI Base Theme (http://www.uni.edu/features/uni-base-theme)
+-----------------
 
 Make sure you enable UNI Dandelion CSS after installing by:
 
@@ -12,10 +16,6 @@ Make sure you enable UNI Dandelion CSS after installing by:
 UNI Dandelion
 
 This theme has been developed as a subtheme of UNI Base Theme (unibasetheme). For more information on unibasetheme go to: http://www.uni.edu/features/uni-base-theme
-
-YOU MUST HAVE INSTALLED:
-Omega Drupal Theme (http://www.drupal.org/project/omega)
-UNI Base Theme (http://www.uni.edu/features/uni-base-theme)
 
 
 /------------ SUBTHEMING UNI Dandelion -----------/
