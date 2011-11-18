@@ -5,6 +5,10 @@ engine = phptemplate
 screenshot = screenshot.jpg
 base theme = unibasetheme
 
+project = uni_dandelion
+project status url = http://www.uni.edu/features/fserver
+version = 7.x-1.0
+
 regions[page_top] = 'Page Top'
 regions[page_bottom] = 'Page Bottom'
 regions[content] = 'Content'
