@@ -1,54 +1,35 @@
 /* This file will hold the main styles for your website. */
 
 /* Page Elements */
-header {
-	margin-bottom: 15px;
-}
-
 .zone-branding-wrapper {
 	background-color: #4b116f;
-	padding-bottom: 10px;
 }
 
 .zone-menu-wrapper {
     background-color: #FFCA03;
 }
 
-.zone-menu-wrapper #main-menu li{
+#zone-menu {
+	padding: 0;
+}
+
+#zone-menu nav {
+	margin-top: -5px;
+	padding: 0;
+}
+
+#zone-menu nav ul#main-menu li{
 	margin: 0px;
+	padding: 0px;
 }
 
-.zone-menu-wrapper #main-menu li a {
+#zone-menu nav ul#main-menu li a {
 	text-decoration: none;
-	padding: 12px 14px 8px;
+	padding: 12px 12px 6px;
+	margin: 0 2px;
 }
 
-.zone-menu-wrapper #main-menu li a:hover,
-.zone-menu-wrapper #main-menu li.active a  {
+#zone-menu nav ul.main-menu li a:hover,
+#zone-menu nav ul.main-menu li.active a  {
 	background: none repeat scroll 0 0 white;
-}
-
-/* Sidebar */
-aside.region-sidebar-first {
-	
-}
-
-section#block-block-1 a:hover {
-	
-}
-
-a.login {
-	
-}
-
-ul {
-	margin-left: 10px;
-}
-
-.block ul {
-	margin-left: 25px;
-}
-
-.site-name, .site-slogan {
-    line-height: 1.05em;
 }
